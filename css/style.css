@@ -272,17 +272,17 @@ ul.nav.navbar-nav li a:hover {
     padding: 4px;
 }
 .carousel .item{ 
-	background:url(../images/1.jpg)no-repeat center 0px;
+	background:url(../images/index1.jpeg)no-repeat center 0px;
 	background-size:cover;
 	
 } 
 .carousel .item2{ 
-	background:url(../images/2.jpg)no-repeat center 0px;
+	background:url(../images/index2.jpeg)no-repeat center 0px;
 	background-size:cover;
 	
 } 
 .carousel .item3{ 
-	background:url(../images/3.jpg)no-repeat center 0px;
+	background:url(../images/index3.jpeg)no-repeat center 0px;
 	background-size:cover;
 	
 } 
