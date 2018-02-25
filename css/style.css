@@ -3437,3 +3437,10 @@ p {
 		color: #7b7b7b;
 		font-weight: 400;
 }
+.main-content > div {
+    margin: 10px;
+}
+
+.item > a > img{
+    float: left;
+}
